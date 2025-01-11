@@ -9,7 +9,7 @@
 }
 
 .form__label {
-  font-family: inter, Arial, sans-serif;
+  font-family: "inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -25,7 +25,7 @@
   margin: 8px 0 32px;
   border: 1px solid #838383;
   border-radius: 4px;
-  font-family: inter, Arial, sans-serif;
+  font-family: "inter", Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
@@ -38,15 +38,15 @@
   border: none;
   padding: 20px 0;
   margin-bottom: 32px;
-  font-family: inter, Arial, sans-serif;
+  font-family: "inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
   color: #fff;
+  cursor: pointer;
   background-color: #1878dc;
-  transition-property: background-color;
-  transition-timing-function: linear;
+  transition: background-color 1s linear;
 }
 
 .form__button:hover {
