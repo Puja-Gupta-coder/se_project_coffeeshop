@@ -21,18 +21,9 @@ Ensure you have a modern browser installed (Chrome, Firefox, Edge, Safari).
 
 📌 Installation & Usage
 
-<<<<<<< HEAD
 1. Clone the repository:
    bash
    CopyEdit
    git clone https://github.com/yourusername/coffee-shop.git
    cd coffee-shop
 2. Open index.html in a browser.
-=======
-1. Understand the problem first·
-2. Break project in sections and sub-sections.
-3. Keep it simple·
-4. Use meaningful names.
-
-#Link:  https://puja-gupta-coder.github.io/se_project_coffeeshop/
->>>>>>> dd7026e4cd926231a426559898d1fcb216affd8b
